@@ -13,7 +13,7 @@ struct ContentView: View {
             VStack{
                 Text("Login Page Goes Here")
                 NavigationLink(destination: folderDatabase()){
-                    Text("Login")
+                    Text("Bullshit Change")
                         .padding()
                 }
             }
